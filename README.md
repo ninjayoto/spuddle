@@ -2,6 +2,8 @@
 
 # <b>Spuddle - Ad Clicking Software</b>
 
+URL: http://spuddle-beta.appspot.com/
+
 Load proxies automatically without the need of finding them on the web.
 
 Every day a different working set of proxies is retrieved.

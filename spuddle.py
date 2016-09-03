@@ -1,6 +1,6 @@
 #!/usr/bin/python
 print '\r'
-print 'Spuddle - Ad Clicking Software (made by Fanis Siampos)'
+print 'Spuddle - Anonymous Traffic Sender (made by Fanis Siampos)'
 print ' _______  _______  __   __  ______   ______   ___      _______ '
 print '|       ||       ||  | |  ||      | |      | |   |    |       |'
 print '|  _____||    _  ||  | |  ||  _    ||  _    ||   |    |    ___|'

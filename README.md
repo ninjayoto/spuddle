@@ -1,6 +1,6 @@
 ![alt tag](http://spuddle-beta.appspot.com/logo.png)
 
-# <b>Spuddle - Ad Clicking Software</b>
+# <b>Spuddle - Anonymous Traffic Sender</b>
 
 URL: http://spuddle-beta.appspot.com/
 

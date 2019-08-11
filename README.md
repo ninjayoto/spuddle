@@ -12,4 +12,4 @@ Make clicks in your own site advertisements!
 
 Insert and send your own HTTP headers (referer URLs and cookies).
 
-![alt tag](http://spuddle-beta.appspot.com/action.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/spuddle/master/687474703a2f2f73707564646c652d626574612e61707073706f742e636f6d2f616374696f6e2e706e67.png)

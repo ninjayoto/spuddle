@@ -1,4 +1,4 @@
-![alt tag](http://spuddle-beta.appspot.com/logo.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/spuddle/master/687474703a2f2f73707564646c652d626574612e61707073706f742e636f6d2f6c6f676f2e706e67.png)
 
 # <b>Spuddle - Anonymous Traffic Sender</b>
 
